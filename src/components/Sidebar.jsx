@@ -29,7 +29,7 @@ const Sidebar = () => {
     { name: "Siemens", count: 99 },
     ]
   return (
-    <aside className="h-screen w-1/6 flex flex-col p-2 m-3">
+    <aside className="h-screen w-[90%] flex flex-col p-2 m-3">
     
       <div className=" bg-[#f5f6f7] p-4 rounded-lg ">
         <h2 className="text-xl font-bold  mb-4">Hot Deals</h2>
